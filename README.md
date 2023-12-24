@@ -1,4 +1,4 @@
-# JxstClient - Beta 8.3.2
+# JxstClient - Beta 8.0
 Just another Minecraft Client!
 
 Features:
@@ -9,3 +9,5 @@ Features:
  - FPS
  - Target
  - Keystrokes
+
+WARNING - THIS IS STILL THE BETA
