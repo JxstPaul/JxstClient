@@ -7,9 +7,9 @@ Features:
  - Mod Menu
  - HUD Config
  - Optifine
- Mods:
+ - Mods:
   - Toggle Sprint
- HUDs:
+ - HUDs:
   - FPS
   - Target
   - Keystrokes
