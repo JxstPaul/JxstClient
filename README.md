@@ -1,7 +1,5 @@
-# JxstClient
+# JxstClient - Beta 8.3.2
 Just another Minecraft Client!
-
-Current Version: Beta 8.3.2
 
 Features:
  - Mod Menu
