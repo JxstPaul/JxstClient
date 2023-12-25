@@ -1,4 +1,4 @@
-# JxstClient - Beta 8.3.2
+# JxstClient - Beta 8.4.1
 Just another Minecraft Client!
 
 Features:
