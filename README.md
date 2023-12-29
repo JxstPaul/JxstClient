@@ -1,13 +1,21 @@
-# JxstClient - Beta 8.0
+# JxstClient - Beta 1.0.0
 Just another Minecraft Client!
 
-Features:
- - Mod Menu
- - HUD Config
- - Optifine
- - Toggle Sprint
- - FPS
- - Target
- - Keystrokes
+We ( I ) are looking for Developers!
+You don't need to be skilled, just need to know what Java is.
+If you're interested in developing this, join the Discord below!
+-> Discord is WIP
 
-WARNING - THIS IS STILL THE BETA
+There is a partner program planned!
+So if you are a YouTuber get yourself ready!
+There will be some small requirements to getting a partner.
+See you soon!
+
+Current Team:
+ - @JxstPaul - Lead Dev
+ - IGN: Alpfret - Partner
+
+Versions:
+ - 1.7.10 - Planned, Pvp
+ - 1.8.9 - InDev, Pvp / Skyblock
+ - 1.12.2 - Planned, Pvp / Mods
