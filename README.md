@@ -10,3 +10,7 @@ There is a partner program planned!
 So if you are a YouTuber get yourself ready!
 There will be some small requirements to getting a partner.
 See you soon!
+
+Current Team:
+ - @JxstPaul - Lead Dev
+ - IGN: Alpfret - Partner
