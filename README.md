@@ -15,6 +15,7 @@ Current Team:
  - @JxstPaul - Lead Dev
  - IGN: Alpfret - Partner
 
-1.7.10 - Planned, Pvp
-1.8.9 - InDev, Pvp / Skyblock
-1.12.2 - Planned, Pvp / Mods
+Versions:
+ - 1.7.10 - Planned, Pvp
+ - 1.8.9 - InDev, Pvp / Skyblock
+ - 1.12.2 - Planned, Pvp / Mods
